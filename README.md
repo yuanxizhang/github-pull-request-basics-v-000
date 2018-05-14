@@ -40,22 +40,22 @@ sure that we're all on the same page.
   done the work _on theirs directly_. [Here][pr] is a great example of a pull
   request on the `Ruby` codebase.
 
-Let's go over a conceptual example. It's OK if this feels a bit confusing at
-first, you'll work through this countless times and eventually your brain and
-fingers will both grasp what's going on.
+Let's go over a conceptual, hypotethical example. It's OK if this feels a bit confusing at
+first. You'll work through this countless times and eventually your brain and
+fingers will both grasp what's going on. Let's look at the following example:
 
 ### Pull Request to a Source Repository
 
-1. Suppose you "fork" a repo from `https://github.com/learn-co-students/awesome-lab`.
-2. You now have a _copy_ of that repo on your Github account ("organization") i.e.
+1. Let's pretend we have a repo called `Awesome Lab` and we make a "fork" from this repo at `https://github.com/learn-co-students/awesome-lab`.
+2. You would now have a _copy_ of that repo on your Github account ("organization") i.e.
    `https://github.com/your-user-name/awesome-lab`. Technologists would say
    you "forked" the `awesome-lab` repo from the `learn-co-students` organization
    to the `your-user-name` organization.
-3. But you still don't have a *local* copy of this repository on your computer.
+3. However, you still would not have a *local* copy of this repository on your computer.
    To do so you will...
-4. Clone from **your** fork to your computer. There's no reason you _couldn't_
+4. You would clone from **your** fork to your computer. There's no reason you _couldn't_
    clone from the _original_ repo. However, most repo owners don't want random
-   people on the Internet (that's you!) committing to their repo. What you're
+   people on the internet (like you!) committing to their repo. What you're
    going to do is establish a "parallel" repo in _your_ org and then tell the
    "source" repo "Hey, I added something awesome, I'm requesting that you _pull_
    it in."
