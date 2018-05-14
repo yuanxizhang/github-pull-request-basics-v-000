@@ -46,13 +46,12 @@ fingers will both grasp what's going on. Let's look at the following example:
 
 ### Pull Request to a Source Repository
 
-1. Let's pretend we have a repo called `Awesome Lab` and we make a "fork" from this repo at `https://github.com/learn-co-students/awesome-lab`.
+1. Let's pretend that the learn-co-students organization has a repo called awesome-lab, and we make a "fork" from this repo at `https://github.com/learn-co-students/awesome-lab`.
 2. You would now have a _copy_ of that repo on your Github account ("organization") i.e.
    `https://github.com/your-user-name/awesome-lab`. Technologists would say
    you "forked" the `awesome-lab` repo from the `learn-co-students` organization
    to the `your-user-name` organization.
 3. However, you still would not have a *local* copy of this repository on your computer.
-   To do so you will...
 4. You would clone from **your** fork to your computer. There's no reason you _couldn't_
    clone from the _original_ repo. However, most repo owners don't want random
    people on the internet (like you!) committing to their repo. What you're
